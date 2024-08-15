@@ -1,8 +1,6 @@
 #include <iostream>
 #include <boost/version.hpp>
 #include <jsoncpp/json/json.h>
-#include <jsoncpp/json/value.h>
-#include <jsoncpp/json/writer.h>
 
 
 
