@@ -11,6 +11,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
+                "-ljsoncpp",
                 // "-fexec-charset=GBK", //GBK编码，用于解决Winows中文乱码
             ],
             "options": {
