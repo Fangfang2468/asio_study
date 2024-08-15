@@ -1,7 +1,0 @@
-{
-    "C_Cpp.intelliSenseEngine": "disabled",
-    "clangd.fallbackFlags": [
-        "--target=x86_64-pc-linux-gnu",
-        "-std=c++23"
-    ]
-}
